@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Jamie Murai"]
   s.email       = ["murai.jamie@gmail.com"]
-  s.homepage    = "http://rubygems.org/gems/word-tokens"
+  s.homepage    = "https://github.com/jammur/word-tokens"
   s.description = %q{Generates tokens consisting of readable words from your system dictionary}
   s.summary     = s.description
 
