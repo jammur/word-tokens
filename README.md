@@ -9,6 +9,7 @@ Installation
 Defaults
 --------
 The default settings are:
+
 * 3 word tokens
 * dash (-) delimited
 * no filtered words
